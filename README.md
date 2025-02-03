@@ -2,6 +2,7 @@ Antalya Varsak 2958 / 58 Parsel İnşaat Günlüğü
 
 
 
-03.02.2025 Pazartesi
+##03.02.2025 Pazartesi
 
-1- 
+  1- Dubleks Merdiven Detayı
+  2- 
