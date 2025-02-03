@@ -1,6 +1,6 @@
 # METRAJLAR ( KEŞİF )
 
-* Metrajlar proje öncesi mimari ve statik planlardan çıkarılanın keşif amaçlı ölçülerdir. Hakediş dönemlerinde imalatından yerinde alınmış ölçülere göre farklılık gösterebilir.
+* Metrajlar proje öncesi mimari ve statik planlardan çıkarılanın keşif amaçlı ölçülerdir. Hakediş dönemlerinde imalat yerinde alınmış ölçülere göre farklılık gösterebilir.
 
 ## İÇİNDEKİLER
 
