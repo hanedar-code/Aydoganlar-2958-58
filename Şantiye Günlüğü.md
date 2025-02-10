@@ -2,12 +2,10 @@
 
 
 
-## 03.02.2025 Pazartesi
-
-	1- Dubleks Merdiven Detayı
- 	2- Mutfak Pis Su Gider Planı
-	3- Çatı Katı İskan Sonrası Planı
-
+## 10.02.2025 Pazartesi
+    
+    1- Mimari Projede değişikliğe gidildi.
+    2- 6 Daire ve 2 Dükkan şeklinde planlandı.
 
 
 
