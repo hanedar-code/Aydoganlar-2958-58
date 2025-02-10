@@ -8,4 +8,4 @@
     2- 6 Daire ve 2 Dükkan şeklinde planlandı.
 
 
-
+    
